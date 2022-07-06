@@ -1,0 +1,64 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "How to Lose Friends and Alienate People",
+      "description":"'How to Lose Friends and Alienate People' is a bare-faced satire on the worldwide bestseller book, Dale Carnegie's 'How to Win Friends and Influence People.' ", 
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61F4Sn8y9ZL.jpg",
+      "price": 11.22
+    },
+    {
+      "id": 2,
+      "name": "Rich Dad Poor Dad",
+      "description":"What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!", 
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg",
+      "price": 133.22
+    },
+    {
+      "id": 3,
+      "name": "Awaken the Giant Within",
+      "description":"How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!", 
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/81KkKgd18LL.jpg",
+      "price": 89.22
+    },
+    {
+      "id": 4,
+      "name": "The Richest Man In Babylon",
+      "description":"The Richest Man in Babylon, based on “Babylonian parables”, has been hailed as the greatest of all inspirational works on the subject of thrift, financial planning, and personal wealth", 
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41m1xGTjweL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "price": 100.22
+    },
+    {
+      "id": 5,
+      "name": "The Millionaire Next Door",
+      "description":"The Surprising Secrets of America's Wealthy", 
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41i0jdN0HEL._SX336_BO1,204,203,200_.jpg",
+      "price": 90.22
+    },
+    {
+      "id": 6,
+      "name": "The Intelligent Investor",
+      "description":"The greatest investment advisor of the twentieth century, Benjamin Graham, taught and inspired people worldwide. Graham's philosophy of value", 
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41vQ4DGEmoL._SX325_BO1,204,203,200_.jpg",
+      "price": 17.22
+    }
+  ],
+  "cart":[],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
